@@ -1,0 +1,1 @@
+# Angular-Example-Minimal-NgModule
